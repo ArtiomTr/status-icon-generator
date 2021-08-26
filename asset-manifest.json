@@ -1,0 +1,18 @@
+{
+  "files": {
+    "main.js": "/status-icon-generator/static/js/main.e3651bd3.chunk.js",
+    "main.js.map": "/status-icon-generator/static/js/main.e3651bd3.chunk.js.map",
+    "runtime-main.js": "/status-icon-generator/static/js/runtime-main.1a5ecd43.js",
+    "runtime-main.js.map": "/status-icon-generator/static/js/runtime-main.1a5ecd43.js.map",
+    "static/js/2.ddfa59f1.chunk.js": "/status-icon-generator/static/js/2.ddfa59f1.chunk.js",
+    "static/js/2.ddfa59f1.chunk.js.map": "/status-icon-generator/static/js/2.ddfa59f1.chunk.js.map",
+    "index.html": "/status-icon-generator/index.html",
+    "static/js/2.ddfa59f1.chunk.js.LICENSE.txt": "/status-icon-generator/static/js/2.ddfa59f1.chunk.js.LICENSE.txt",
+    "static/media/layered-waves-haikei.4f395eac.svg": "/status-icon-generator/static/media/layered-waves-haikei.4f395eac.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.1a5ecd43.js",
+    "static/js/2.ddfa59f1.chunk.js",
+    "static/js/main.e3651bd3.chunk.js"
+  ]
+}
