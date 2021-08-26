@@ -2,6 +2,7 @@
     "name": "status-icon-generator",
     "version": "0.1.0",
     "private": true,
+    "homepage": "https://artiomtr.github.io/status-icon-generator",
     "dependencies": {
         "@chakra-ui/react": "^1.6.6",
         "@emotion/react": "^11.4.1",
@@ -29,7 +30,8 @@
         "build": "react-scripts build",
         "test": "react-scripts test",
         "eject": "react-scripts eject",
-        "format": "prettier . -w"
+        "format": "prettier . -w",
+        "push-gh-pages": "node ./scripts/push.js"
     },
     "eslintConfig": {
         "extends": "react-app"
@@ -48,6 +50,7 @@
     },
     "devDependencies": {
         "@types/text-to-svg": "^3.1.1",
+        "gh-pages": "^3.2.3",
         "prettier": "^2.3.2"
     }
 }
