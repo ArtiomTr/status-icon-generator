@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.js": "/status-icon-generator/static/js/main.de6e3e05.chunk.js",
-    "main.js.map": "/status-icon-generator/static/js/main.de6e3e05.chunk.js.map",
+    "main.js": "/status-icon-generator/static/js/main.e863e55c.chunk.js",
+    "main.js.map": "/status-icon-generator/static/js/main.e863e55c.chunk.js.map",
     "runtime-main.js": "/status-icon-generator/static/js/runtime-main.1a5ecd43.js",
     "runtime-main.js.map": "/status-icon-generator/static/js/runtime-main.1a5ecd43.js.map",
     "static/js/2.ddfa59f1.chunk.js": "/status-icon-generator/static/js/2.ddfa59f1.chunk.js",
@@ -15,6 +15,6 @@
   "entrypoints": [
     "static/js/runtime-main.1a5ecd43.js",
     "static/js/2.ddfa59f1.chunk.js",
-    "static/js/main.de6e3e05.chunk.js"
+    "static/js/main.e863e55c.chunk.js"
   ]
 }
