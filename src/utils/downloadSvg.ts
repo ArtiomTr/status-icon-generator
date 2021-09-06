@@ -14,7 +14,7 @@ export const downloadSvg = async ({
     const font = await downloadFont('Roboto-Regular.ttf');
     const textToSvgInstance = new TextToSVG(parse(font));
 
-    const content = `<svg viewBox="0 0 30 30" fill="${backgroundColor}" xmlns="http://www.w3.org/2000/svg"><rect width="30" height="30" rx="2" fill="inherit"></rect><path fill="#fff" d="${textToSvgInstance.getD(
+    const content = `<svg viewBox="0 0 30 30" xmlns="http://www.w3.org/2000/svg"><rect width="30" height="30" rx="2" fill="${backgroundColor}"></rect><path fill="#fff" d="${textToSvgInstance.getD(
         text,
         { fontSize: 16, x: 15, y: 15, anchor: 'center middle' }
     )}"></path></svg>`;
