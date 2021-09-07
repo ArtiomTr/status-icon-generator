@@ -2,8 +2,8 @@
     "name": "status-icon-generator",
     "version": "0.1.0",
     "private": true,
-    "homepage": "https://artiomtr.github.io/status-icon-generator",
     "dependencies": {
+        "@chakra-ui/icons": "^1.0.15",
         "@chakra-ui/react": "^1.6.6",
         "@emotion/react": "^11.4.1",
         "@emotion/styled": "^11.3.0",
@@ -21,13 +21,14 @@
         "react-dom": "^17.0.2",
         "react-icons": "^3.11.0",
         "react-scripts": "4.0.3",
+        "sass": "^1.39.0",
         "text-to-svg": "^3.1.5",
         "typescript": "^3.9.10",
         "web-vitals": "^0.2.4"
     },
     "scripts": {
         "start": "react-scripts start",
-        "build": "react-scripts build",
+        "build": "cross-env PUBLIC_URL=https://artiomtr.github.io/status-icon-generator react-scripts build",
         "test": "react-scripts test",
         "eject": "react-scripts eject",
         "format": "prettier . -w",
@@ -50,6 +51,7 @@
     },
     "devDependencies": {
         "@types/text-to-svg": "^3.1.1",
+        "cross-env": "^7.0.3",
         "gh-pages": "^3.2.3",
         "prettier": "^2.3.2"
     }
