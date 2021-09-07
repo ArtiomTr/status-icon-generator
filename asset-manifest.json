@@ -1,20 +1,22 @@
 {
   "files": {
-    "main.js": "/status-icon-generator/static/js/main.e863e55c.chunk.js",
-    "main.js.map": "/status-icon-generator/static/js/main.e863e55c.chunk.js.map",
-    "runtime-main.js": "/status-icon-generator/static/js/runtime-main.1a5ecd43.js",
-    "runtime-main.js.map": "/status-icon-generator/static/js/runtime-main.1a5ecd43.js.map",
-    "static/js/2.ddfa59f1.chunk.js": "/status-icon-generator/static/js/2.ddfa59f1.chunk.js",
-    "static/js/2.ddfa59f1.chunk.js.map": "/status-icon-generator/static/js/2.ddfa59f1.chunk.js.map",
-    "index.html": "/status-icon-generator/index.html",
-    "service-worker.js": "/status-icon-generator/service-worker.js",
-    "service-worker.js.map": "/status-icon-generator/service-worker.js.map",
-    "static/js/2.ddfa59f1.chunk.js.LICENSE.txt": "/status-icon-generator/static/js/2.ddfa59f1.chunk.js.LICENSE.txt",
-    "static/media/layered-waves-haikei.4f395eac.svg": "/status-icon-generator/static/media/layered-waves-haikei.4f395eac.svg"
+    "main.css": "https://artiomtr.github.io/status-icon-generator/static/css/main.31cc402a.chunk.css",
+    "main.js": "https://artiomtr.github.io/status-icon-generator/static/js/main.f17b0154.chunk.js",
+    "main.js.map": "https://artiomtr.github.io/status-icon-generator/static/js/main.f17b0154.chunk.js.map",
+    "runtime-main.js": "https://artiomtr.github.io/status-icon-generator/static/js/runtime-main.5deb57fb.js",
+    "runtime-main.js.map": "https://artiomtr.github.io/status-icon-generator/static/js/runtime-main.5deb57fb.js.map",
+    "static/js/2.117e5dba.chunk.js": "https://artiomtr.github.io/status-icon-generator/static/js/2.117e5dba.chunk.js",
+    "static/js/2.117e5dba.chunk.js.map": "https://artiomtr.github.io/status-icon-generator/static/js/2.117e5dba.chunk.js.map",
+    "index.html": "https://artiomtr.github.io/status-icon-generator/index.html",
+    "service-worker.js": "https://artiomtr.github.io/status-icon-generator/service-worker.js",
+    "service-worker.js.map": "https://artiomtr.github.io/status-icon-generator/service-worker.js.map",
+    "static/css/main.31cc402a.chunk.css.map": "https://artiomtr.github.io/status-icon-generator/static/css/main.31cc402a.chunk.css.map",
+    "static/js/2.117e5dba.chunk.js.LICENSE.txt": "https://artiomtr.github.io/status-icon-generator/static/js/2.117e5dba.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
-    "static/js/runtime-main.1a5ecd43.js",
-    "static/js/2.ddfa59f1.chunk.js",
-    "static/js/main.e863e55c.chunk.js"
+    "static/js/runtime-main.5deb57fb.js",
+    "static/js/2.117e5dba.chunk.js",
+    "static/css/main.31cc402a.chunk.css",
+    "static/js/main.f17b0154.chunk.js"
   ]
 }
