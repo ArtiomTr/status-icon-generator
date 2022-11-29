@@ -28,7 +28,7 @@
     },
     "scripts": {
         "start": "react-scripts start",
-        "build": "cross-env PUBLIC_URL=https://artiomtr.github.io/status-icon-generator react-scripts build",
+        "build": "cross-env PUBLIC_URL=https://fracht.github.io/status-icon-generator react-scripts build",
         "test": "react-scripts test",
         "eject": "react-scripts eject",
         "format": "prettier . -w",
