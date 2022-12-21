@@ -88,7 +88,7 @@ export const App = () => {
                                     position="relative"
                                 >
                                     <Link
-                                        href="https://github.com/ArtiomTr/status-icon-generator"
+                                        href="https://github.com/fracht/status-icon-generator"
                                         isExternal
                                         position="absolute"
                                         left="20px"
