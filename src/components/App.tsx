@@ -47,7 +47,7 @@ export const App = () => {
                         <Box display="flex" flexDirection="column" justifyContent="space-between" h="100vh">
                             <Box>
                                 <Heading as="h2" size="xl" textTransform="uppercase" padding="20px 0 0 0">
-                                    Status icon generatorDAWDAWDAW
+                                    Status icon generator
                                 </Heading>
                             </Box>
                             <Center w="100%" p={4} color="white" h="100%">
