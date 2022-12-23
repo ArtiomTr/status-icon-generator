@@ -1,22 +1,22 @@
 {
-    "files": {
-        "main.css": "https://fracht.github.io/status-icon-generator/static/css/main.31cc402a.chunk.css",
-        "main.js": "https://fracht.github.io/status-icon-generator/static/js/main.f17b0154.chunk.js",
-        "main.js.map": "https://fracht.github.io/status-icon-generator/static/js/main.f17b0154.chunk.js.map",
-        "runtime-main.js": "https://fracht.github.io/status-icon-generator/static/js/runtime-main.5deb57fb.js",
-        "runtime-main.js.map": "https://fracht.github.io/status-icon-generator/static/js/runtime-main.5deb57fb.js.map",
-        "static/js/2.117e5dba.chunk.js": "https://fracht.github.io/status-icon-generator/static/js/2.117e5dba.chunk.js",
-        "static/js/2.117e5dba.chunk.js.map": "https://fracht.github.io/status-icon-generator/static/js/2.117e5dba.chunk.js.map",
-        "index.html": "https://fracht.github.io/status-icon-generator/index.html",
-        "service-worker.js": "https://fracht.github.io/status-icon-generator/service-worker.js",
-        "service-worker.js.map": "https://fracht.github.io/status-icon-generator/service-worker.js.map",
-        "static/css/main.31cc402a.chunk.css.map": "https://fracht.github.io/status-icon-generator/static/css/main.31cc402a.chunk.css.map",
-        "static/js/2.117e5dba.chunk.js.LICENSE.txt": "https://fracht.github.io/status-icon-generator/static/js/2.117e5dba.chunk.js.LICENSE.txt"
-    },
-    "entrypoints": [
-        "static/js/runtime-main.5deb57fb.js",
-        "static/js/2.117e5dba.chunk.js",
-        "static/css/main.31cc402a.chunk.css",
-        "static/js/main.f17b0154.chunk.js"
-    ]
+  "files": {
+    "main.css": "https://fracht.github.io/status-icon-generator/static/css/main.31cc402a.chunk.css",
+    "main.js": "https://fracht.github.io/status-icon-generator/static/js/main.92b3d222.chunk.js",
+    "main.js.map": "https://fracht.github.io/status-icon-generator/static/js/main.92b3d222.chunk.js.map",
+    "runtime-main.js": "https://fracht.github.io/status-icon-generator/static/js/runtime-main.ff1027cd.js",
+    "runtime-main.js.map": "https://fracht.github.io/status-icon-generator/static/js/runtime-main.ff1027cd.js.map",
+    "static/js/2.117e5dba.chunk.js": "https://fracht.github.io/status-icon-generator/static/js/2.117e5dba.chunk.js",
+    "static/js/2.117e5dba.chunk.js.map": "https://fracht.github.io/status-icon-generator/static/js/2.117e5dba.chunk.js.map",
+    "index.html": "https://fracht.github.io/status-icon-generator/index.html",
+    "service-worker.js": "https://fracht.github.io/status-icon-generator/service-worker.js",
+    "service-worker.js.map": "https://fracht.github.io/status-icon-generator/service-worker.js.map",
+    "static/css/main.31cc402a.chunk.css.map": "https://fracht.github.io/status-icon-generator/static/css/main.31cc402a.chunk.css.map",
+    "static/js/2.117e5dba.chunk.js.LICENSE.txt": "https://fracht.github.io/status-icon-generator/static/js/2.117e5dba.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.ff1027cd.js",
+    "static/js/2.117e5dba.chunk.js",
+    "static/css/main.31cc402a.chunk.css",
+    "static/js/main.92b3d222.chunk.js"
+  ]
 }
