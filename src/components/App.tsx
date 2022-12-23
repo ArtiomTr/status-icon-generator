@@ -31,8 +31,8 @@ export const App = () => {
         const value = e.target.value;
 
         formBag.setFieldValue('text', (old: string) => {
-            if (old.trim().length === 0) {
-                return value[0];
+            if (typeof old !== 'string' || old.trim().length === 0) {
+                return value[0] || '';
             }
 
             return old;
