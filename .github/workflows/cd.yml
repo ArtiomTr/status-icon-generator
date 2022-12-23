@@ -11,10 +11,10 @@ jobs:
             - name: Begin CD...
               uses: actions/checkout@v2
 
-            - name: Use Node 16
+            - name: Use Node 14
               uses: actions/setup-node@v2
               with:
-                  node-version: 16.5.0
+                  node-version: 14
 
             - name: Install deps (with cache)
               uses: bahmutov/npm-install@v1
