@@ -1,8 +1,8 @@
 {
   "files": {
     "main.css": "https://fracht.github.io/status-icon-generator/static/css/main.31cc402a.chunk.css",
-    "main.js": "https://fracht.github.io/status-icon-generator/static/js/main.92b3d222.chunk.js",
-    "main.js.map": "https://fracht.github.io/status-icon-generator/static/js/main.92b3d222.chunk.js.map",
+    "main.js": "https://fracht.github.io/status-icon-generator/static/js/main.32e5ad34.chunk.js",
+    "main.js.map": "https://fracht.github.io/status-icon-generator/static/js/main.32e5ad34.chunk.js.map",
     "runtime-main.js": "https://fracht.github.io/status-icon-generator/static/js/runtime-main.ff1027cd.js",
     "runtime-main.js.map": "https://fracht.github.io/status-icon-generator/static/js/runtime-main.ff1027cd.js.map",
     "static/js/2.117e5dba.chunk.js": "https://fracht.github.io/status-icon-generator/static/js/2.117e5dba.chunk.js",
@@ -17,6 +17,6 @@
     "static/js/runtime-main.ff1027cd.js",
     "static/js/2.117e5dba.chunk.js",
     "static/css/main.31cc402a.chunk.css",
-    "static/js/main.92b3d222.chunk.js"
+    "static/js/main.32e5ad34.chunk.js"
   ]
 }
